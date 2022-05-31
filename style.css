@@ -64,3 +64,11 @@ header {
 .skills-and-jobs-style {
     background-color: #C2F9BB;
 }
+
+a:link {
+    color:#C2F9BB;
+}
+
+a:visited {
+    color:#4b8943;
+}
