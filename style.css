@@ -56,6 +56,7 @@ header {
 }
 
 .skills-and-jobs {
+    padding: 15px 25px;
     color: #272932;
     max-width: 1100px;
     margin: 30px auto;
